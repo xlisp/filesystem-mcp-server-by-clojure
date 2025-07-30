@@ -1,14 +1,15 @@
+# File System MCP Server By Clojure
 
-## File System MCP Server By Clojure
+* Inspiration: https://github.com/bhauman/clojure-mcp
 
-* run in emacs 
+## Run in emacs 
 
 ```
 (mcp-server)
 ```
 ![](./demo3.png)
 
-* use it by Claude Desktop
+## Use it by Claude Desktop
 
 ![](./demo1.png)
 ![](./demo2.png)
